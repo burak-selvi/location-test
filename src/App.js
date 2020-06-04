@@ -113,6 +113,7 @@ function App() {
       {location.addressDetails && (
         <ul>
           <li>Country: {location.addressDetails.country}</li>
+          <li>City: {location.addressDetails?.city}</li>
           <li>Town: {location.addressDetails.town}</li>
           <li>District: {location.addressDetails.suburb}</li>
           <li>Road: {location.addressDetails.road}</li>
