@@ -18,7 +18,7 @@
     "react-google-maps": "^9.4.5",
     "react-html5-camera-photo": "^1.5.4",
     "react-input-mask": "^2.0.4",
-    "react-scripts": "3.4.1"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
